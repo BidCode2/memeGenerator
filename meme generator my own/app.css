@@ -1,0 +1,31 @@
+body {
+    background-color: rgb(85, 85, 85);
+}
+
+img {
+    
+    
+    width: 40%;
+    padding: 0px;
+    margin: 0px;
+
+
+}
+
+input {
+    width: 250px;
+    height: 40px;
+    font-size: 20px;
+}
+
+
+.topTextFont {
+    margin: 0px;
+    padding: 0px;
+    font-size: 30px;
+    color: white;
+    background-color: black;
+    width: 40%;
+    text-align: center;
+
+}
